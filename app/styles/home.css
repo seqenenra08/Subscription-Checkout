@@ -1,0 +1,5 @@
+.backdrop{
+    background-color: rgba(187, 148, 76, 0.322);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+}
